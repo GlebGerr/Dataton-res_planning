@@ -68,14 +68,7 @@ pip install -r requirements.txt
 
 ### 3. Открыть Jupyter Notebook
 
-Перейти в папку:
-
-notebook/
-
-и открыть файл:
-
-project_analysis.ipynb
-
+Перейти в папку `notebook/` и открыть файл: project_analysis.ipynb
 
 ### 4. Запустить ноутбук
 
