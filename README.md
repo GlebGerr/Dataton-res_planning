@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Данный репозиторий содержит аналитический проект по исследованию системы учёта трудозатрат и разработке модели планирования ресурсов проектов на основе исторических данных списания рабочего времени сотрудников.
 
